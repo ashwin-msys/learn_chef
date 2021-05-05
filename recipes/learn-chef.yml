@@ -1,0 +1,4 @@
+resources:
+  - type: "file"
+    name: "/etc/motd"
+    content: "Learning CHEF is fun with YAML, I'm creating one file on My Desktop"
